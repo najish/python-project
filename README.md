@@ -11,7 +11,7 @@ This checklist is divided into four sections:
 ## 1️⃣ 🐍 Python Concepts
 
 ### ✅ Basics
-- [ ] Variables and Data Types
+- [✅] Variables and Data Types
 - [ ] Type Casting
 - [ ] Input/Output
 - [ ] Operators (Arithmetic, Logical, Bitwise)
