@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test and log files
+*.log
+*.tmp
+
+# Ignore environment variable files
+.env
+.env.*
