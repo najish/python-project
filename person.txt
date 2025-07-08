@@ -1,0 +1,6 @@
+id	name	age	dob	fav_sports	email
+1	Alice	45	1977-07-24	Hockey,Baseball,Basketball,Rugby,Swimming,Football,Golf,Cricket,Boxing	alice@mail.com
+2	Bob	65	2001-12-09	Basketball,Rugby,Golf,Hockey,Swimming,Football,Baseball,Boxing	bob@mail.com
+3	Charlie	19	2004-06-22	Football,Golf,Boxing,Cricket,Rugby,Tennis,Basketball,Swimming,Hockey,Baseball	charlie@mail.com
+4	David	61	2000-03-26	Swimming,Boxing,Football,Basketball,Baseball,Rugby,Cricket,Golf,Tennis	david@test.org
+5	Eve	80	2001-11-17	Swimming,Hockey,Boxing,Basketball,Rugby,Football	eve@mail.com
